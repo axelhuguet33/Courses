@@ -528,6 +528,7 @@ debut_mois  = aujourd_hui.replace(day=1)
 fin_mois    = (debut_mois + pd.offsets.MonthEnd(1))
 
 # Moyenne sur les 3 mois complets précédents
+# Note: On utilise df complet (pas df_f) pour ignorer le filtre de dates du sidebar
 debut_3m = (debut_mois - pd.DateOffset(months=3))
 df_3m = df[
     (df['date'] >= debut_3m) &
@@ -538,7 +539,11 @@ moy_3m_par_mois = df_3m.groupby(df_3m['date'].dt.to_period('M'))['total_net'].su
 budget_prevu = moy_3m_par_mois.mean() if len(moy_3m_par_mois) > 0 else 0
 
 # Ce qui a déjà été dépensé ce mois-ci
-df_ce_mois = df_f[df_f['date'] >= debut_mois]
+# Note: On utilise df complet (pas df_f) pour inclure tous les tickets du mois, pas juste ceux du filtre de date
+df_ce_mois = df[
+    (df['date'] >= debut_mois) &
+    (df['enseigne'].isin(selected_enseignes))
+]
 depense_en_cours = df_ce_mois['total_net'].sum()
 
 # Prorata : jours écoulés / jours dans le mois
