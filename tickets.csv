@@ -1,0 +1,40 @@
+﻿date,enseigne,total_brut,remise,total_net,nb_articles,fichier
+2025-08-09,Leclerc,49.01,0.0,49.01,19,E.Leclerc - Ticket du 09.08.2025.pdf
+2025-07-12,Leclerc,38.42,1.39,37.03,14,E.Leclerc - Ticket du 12.07.2025.pdf
+2025-10-13,Leclerc,126.21,0.0,126.21,47,E.Leclerc - Ticket du 13.10.2025.pdf
+2026-01-14,Leclerc,126.98,0.0,126.98,51,E.Leclerc - Ticket du 14.01.2026.pdf
+2025-09-14,Leclerc,17.8,0.0,17.8,8,E.Leclerc - Ticket du 14.09.2025.pdf
+2025-07-15,Leclerc,58.49,0.0,58.49,27,E.Leclerc - Ticket du 15.07.2025.pdf
+2026-02-16,Leclerc,120.81,0.0,120.81,49,E.Leclerc - Ticket du 16.02.2026.pdf
+2026-03-16,Leclerc,150.63,5.84,144.79,59,E.Leclerc - Ticket du 16.03.2026.pdf
+2025-07-21,Leclerc,97.83,0.78,97.05,34,E.Leclerc - Ticket du 21.07.2025.pdf
+2025-10-22,Leclerc,86.49,0.0,86.49,28,E.Leclerc - Ticket du 22.10.2025.pdf
+2025-11-25,Leclerc,93.88,0.0,93.88,40,E.Leclerc - Ticket du 25.11.2025.pdf
+2025-10-28,Leclerc,9.26,0.0,9.26,4,E.Leclerc - Ticket du 28.10.2025.pdf
+2025-08-30,Leclerc,109.95,0.6,109.35,39,E.Leclerc - Ticket du 30.08.2025.pdf
+2025-11-03,Picard,64.84,3.02,61.82,10,5a2126d2-23a4-4b24-b6e6-56c09fb2dd7b.pdf
+2026-02-04,Picard,70.81,1.8,69.01,14,5d3f8de0-095c-4105-9cd8-a2546cb50bba.pdf
+2025-09-16,Picard,41.46,1.26,40.2,7,65c5379d-94ff-4fd6-98c9-d6932109bc54.pdf
+2025-10-15,Picard,54.36,1.51,52.85,10,dad2e1d2-e4a1-44b8-bcb3-d68f70490806.pdf
+2025-12-15,Picard,54.14,0.0,54.14,12,feff0f66-d640-436c-8b13-43c745287aff.pdf
+2026-02-05,Intermarché,38.16,7.64,30.52,16,1122e654-270b-47d7-997a-047f8e71f47c.pdf
+2026-01-25,Intermarché,19.51,0.0,19.51,11,29b1acf1-ff20-4282-be6f-45c09347091a.pdf
+2025-07-11,Intermarché,28.03,0.0,28.03,12,2d6eeb8a-afdc-41cc-a489-3b62770a5ae1.pdf
+2025-09-30,Intermarché,60.91,0.0,60.91,19,389c4f98-46e5-4ffe-954d-738b736b9761.pdf
+2025-07-26,Intermarché,4.95,0.0,4.95,2,43a1816a-27ac-4d8b-b4ab-d6751293779f.pdf
+2025-08-19,Intermarché,37.55,0.0,37.55,13,4515e168-101d-4e94-8b53-b63497c9d32c.pdf
+2025-09-01,Intermarché,23.67,0.0,23.67,8,50ebd078-64b9-4f30-a7bf-575d1e6d2524.pdf
+2025-09-12,Intermarché,46.74,0.0,46.74,17,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf
+2026-03-07,Intermarché,22.8,0.0,22.8,12,5bc1c8e7-828a-4525-8602-10366ac44c1e.pdf
+2025-12-06,Intermarché,23.96,0.0,23.96,10,60e5a2a2-4da2-4be3-9409-3e4db2e6cddc.pdf
+2025-07-14,Intermarché,13.25,0.0,13.25,6,7bfd9d6d-c1df-4d31-b5ba-9e3376d0e2dd.pdf
+2026-01-19,Intermarché,8.36,0.0,8.36,6,80349889-00dc-4742-928a-76164646df1b.pdf
+2025-08-05,Intermarché,55.39,0.0,55.39,20,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf
+2025-11-14,Intermarché,28.3,0.0,28.3,11,9abff789-7aa9-4e49-96d5-9b050b69c651.pdf
+2025-12-29,Intermarché,46.97,0.0,46.97,22,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf
+2026-03-05,Intermarché,40.48,0.0,40.48,18,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf
+2025-09-22,Intermarché,26.03,0.28,26.03,13,f136b5b2-764a-45f3-996b-550e8617db7c.pdf
+2025-10-26,Intermarché,3.85,0.0,3.85,2,f46bec2c-b32f-444b-bb24-e057090a3b40.pdf
+2026-03-19,Intermarché,7.41,0.0,7.41,2,fd6fb45e-bb6a-4f9c-a288-23e53918d356.pdf
+2025-09-17,Intermarché,9.69,0.0,9.69,3,fe78b8af-f566-4a69-91f2-f7b6cfb42b25.pdf
+2025-09-25,La Fourche,87.68,0.0,87.68,12,2025_09_001957148_0c381622-03ea-4211-b62e-e6c8238548c4.pdf

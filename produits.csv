@@ -1,0 +1,552 @@
+﻿produit,quantite,prix_unitaire,prix_total,categorie,date,enseigne,fichier,nom_simplifié
+ORIGAN DE PROVENCE DUCROS 12G,1.0,1.79,1.79,EPICERIE,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Origan
+BRETS ARO PESTO MOZZARELLA,1.0,1.48,1.48,EPICERIE,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Mozzarella
+FARINE BLE T45 1KG TABLIER B,1.0,0.69,0.69,EPICERIE,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Farine T45
+FINE CHAPELURE DE PAIN 275G,1.0,0.6,0.6,EPICERIE,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Chapelure
+AOP CHABLIS MR 75CL,1.0,12.49,12.49,LIQUIDE,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Vin
+SANPELLEGRINO CLEMENTINE/PECHE,1.0,3.84,3.84,LIQUIDE,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Pêche
+PAPIER HYGIENIQUE ROSE 12PCE,1.0,2.91,2.91,HYGIENE,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Papier toilette
+POIVRON JAUNE,0.416,4.99,2.08,FRUITS ET LEGUMES,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Poivron jaune
+TOMATE CERISE ALLONGEE BICOLORE,1.0,2.29,2.29,FRUITS ET LEGUMES,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Tomates cerises
+CONCOMBRE,1.0,1.39,1.39,FRUITS ET LEGUMES,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Concombre
+GAULOIS - 2 BELLES ESC PLT,1.0,4.81,4.81,VOLAILLE LIBRE SERVICE,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Escargots surgelés
+BEURRE MOULE DOUX 125G PAY.BRE,1.0,1.89,1.89,ULTRAS FRAIS,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Beurre
+FROMAGE BLANC NATURE 3%MG 1KG,1.0,1.92,1.92,ULTRAS FRAIS,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Fromage blanc
+"PETITS FROMAGE BLANC NAT3,8% 1",1.0,1.62,1.62,ULTRAS FRAIS,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Fromage blanc
+OEUFS BIOLOGIQUES X10 MR,1.0,3.41,3.41,ULTRAS FRAIS,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Œufs x10
+* TRANCHE DE FETA 150G,1.0,1.84,1.84,CREMERIE LIBRE SERVICE,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Feta
+MOZZARELLA GALBANI 125G,2.0,1.03,2.06,CREMERIE LIBRE SERVICE,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Mozzarella
+SAC CABAS JUTE BLEU V4,1.0,1.9,1.9,SAC CAISSE E.LECLERC,2025-08-09,Leclerc,E.Leclerc - Ticket du 09.08.2025.pdf,Sac cabas
+OLIVES NOIRES CONFITES DENOYAUT,1.0,1.77,1.77,EPICERIE,2025-07-12,Leclerc,E.Leclerc - Ticket du 12.07.2025.pdf,Olives noires
+CHIPS LA GOURMANDE VICO 120G,1.0,1.34,1.34,EPICERIE,2025-07-12,Leclerc,E.Leclerc - Ticket du 12.07.2025.pdf,Chips / snacks
+PUR JUS POMME BRETAGNE 1L NRT,1.0,2.52,2.52,LIQUIDE,2025-07-12,Leclerc,E.Leclerc - Ticket du 12.07.2025.pdf,Jus de pomme
+GINGER BEER 33CL,3.0,1.5,4.5,LIQUIDE,2025-07-12,Leclerc,E.Leclerc - Ticket du 12.07.2025.pdf,Ginger beer
+"SHP AVOCAT KARITE,U.DOUX,300ML",1.0,2.44,2.44,PARFUMERIE,2025-07-12,Leclerc,E.Leclerc - Ticket du 12.07.2025.pdf,Avocat
+POMME DE TERRE DE CONSOMMATION,1.628,1.99,3.24,FRUITS ET LEGUMES,2025-07-12,Leclerc,E.Leclerc - Ticket du 12.07.2025.pdf,Pomme de terre
+PECHE JAUNE,1.062,4.99,5.3,FRUITS ET LEGUMES,2025-07-12,Leclerc,E.Leclerc - Ticket du 12.07.2025.pdf,Pêche jaune
+CONCOMBRE,2.0,1.49,2.98,FRUITS ET LEGUMES,2025-07-12,Leclerc,E.Leclerc - Ticket du 12.07.2025.pdf,Concombre
+ANCHOIS A LA CREME D'AIL 200G,1.0,3.65,3.65,SAURISSERIE,2025-07-12,Leclerc,E.Leclerc - Ticket du 12.07.2025.pdf,Anchois
+MAG DBL NOISETTE 4X85ML,1.0,4.69,4.69,SURGELES,2025-07-12,Leclerc,E.Leclerc - Ticket du 12.07.2025.pdf,Magnum double noisette
+BTE BUGSY TERRE CUITE + 10 SPIR,1.0,5.99,5.99,MENAGE,2025-07-12,Leclerc,E.Leclerc - Ticket du 12.07.2025.pdf,BTE BUGSY TERRE CUITE + 10 SPIR
+PROTEINES DE SOJA UAD,0.264,15.99,4.22,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Protéines de soja
+SARDINE HLE OLIV.HYACINTHE232G,2.0,3.18,6.36,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Sardines (boîte)
+GRANDES TRANCHES SSA COMPLET 82,1.0,2.44,2.44,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Pain de mie complet
+CANNELLE MOULUE DUCROS FL 39G,2.0,1.16,2.32,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Cannelle
+GINGEMBRE,1.0,1.58,1.58,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Gingembre
+CURCUMA MOULU,1.0,2.15,2.15,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Curcuma
+GERBLE GERME DE BLE SELECTIONN,1.0,1.84,1.84,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Germe de blé
+HACHE VEGETAL BOLOGN.SOJA BIO,3.0,2.46,7.38,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Steak haché végétal
+LAIT AMANDE CALCIUM BJORG 1L,1.0,2.27,2.27,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Lait d'amande
+AVOINE SANS SUCRES 1L,1.0,2.27,2.27,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Lait d'avoine
+EMINCE VEGGIE,2.0,3.05,6.1,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Émincés végétaux
+PUREE DE SESAME TAHIN,1.0,6.78,6.78,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Tahini
+JB SAUCE TAMARI BIO* 140ML,1.0,3.41,3.41,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Sauce tamari
+GRD SSA PARF VARIES 20X90G BV,1.0,6.09,6.09,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,GRD SSA PARF VARIES 20X90G BV
+NOUILLES DE RIZ SACHET 250G,1.0,1.99,1.99,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Nouilles de riz
+LENTILLES CORAIL 500G N.JARDIN,1.0,1.72,1.72,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Lentilles corail
+GRAINES DE SESAME BIO 200G BV,1.0,1.99,1.99,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Graines de sésame
+QUINOA GOURMAND TIPIAK 400G,1.0,2.43,2.43,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Quinoa
+COUSCOUS PARF.EPICE TIPIAK 510G,1.0,1.95,1.95,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Couscous
+LAIT DE COCO LIGHT BRIQUE 200M,1.0,1.35,1.35,EPICERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Lait de coco
+SANPELLEGRINO CLEMENTINE/PECHE,1.0,3.64,3.64,LIQUIDE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Pêche
+SANPELLEGRINO MOMENTI GRENADE 6,1.0,3.62,3.62,LIQUIDE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,San Pellegrino
+S PELLEGRINO MOM THE CITRON 6X3,1.0,3.64,3.64,LIQUIDE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Citron
+* 2 FLEX & WASH,1.0,3.98,3.98,DROGUERIE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,* 2 FLEX & WASH
+PH BLANC X 6 3PLIS UNIVERT,1.0,2.34,2.34,HYGIENE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Papier toilette
+ESSUIE TOUT 2PLIS X2 2=4,1.0,2.72,2.72,HYGIENE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Essuie-tout
+BTE MOUCHOIRS X 80 3 PLIS,2.0,1.26,2.52,HYGIENE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Mouchoirs
+CITRON JAUNE,0.126,3.95,0.5,FRUITS ET LEGUMES,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Citron
+HOUMOUS GRAINES DE SESAME 175G,2.0,2.89,5.78,FRUITS ET LEGUMES,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Houmous
+BANANE SACHET X 5,1.0,1.69,1.69,FRUITS ET LEGUMES,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Banane
+AVOCAT,4.0,1.39,5.56,FRUITS ET LEGUMES,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Avocat
+CONCOMBRE,1.0,1.49,1.49,FRUITS ET LEGUMES,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Concombre
+12 OEUFS PLEIN AIR LNA,2.0,3.62,7.24,ULTRAS FRAIS,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,Œufs x12
+COUVRE ASSIETTE PP TRANSPARENT,1.0,2.79,2.79,MENAGE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,COUVRE ASSIETTE PP TRANSPARENT
+MULE PLATE M7P26AS370 39 GRIS/M,1.0,8.95,8.95,CHAUSSURE,2025-10-13,Leclerc,E.Leclerc - Ticket du 13.10.2025.pdf,MULE PLATE M7P26AS370 39 GRIS/M
+SARDINE HLE OLIV.HYACINTHE232G,3.0,3.14,9.42,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Sardines (boîte)
+FLTS MQX SCE TOMATE SSA PN 169G,1.0,1.75,1.75,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Filets de maquereaux sauce tomate
+HACHE VEGETAL BOLOGN.SOJA BIO,1.0,2.46,2.46,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Steak haché végétal
+TOFU NATURE BJORG,4.0,2.64,10.56,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Tofu
+EMINCE VEGGIE SAUCE MEXICAINE,1.0,3.16,3.16,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Émincés végétaux
+MA PREPARATION VEGGIE BIO,2.0,2.27,4.54,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Préparation veggie
+PUREE DE SESAME TAHIN,1.0,6.78,6.78,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Tahini
+EBLY BLE NAT 10MN 500G,1.0,1.82,1.82,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Blé
+BRETS ARO PESTO MOZZARELLA,1.0,1.45,1.45,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Mozzarella
+FILET MAQUERX AROMAT MUSCADET,1.0,1.45,1.45,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Maquereau (boîte)
+CHOC NOIR 85%CACAO 100G T.D OR,2.0,1.53,3.06,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Chocolat noir 85%
+MAQU MOUTARD ANC 169G P.OCEAN,1.0,1.67,1.67,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Maquereau (boîte)
+FILETS MAQX VIN BLC CITR ROM,1.0,1.85,1.85,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Maquereau (boîte)
+GRD SSA PARF VARIES 20X90G BV,1.0,6.09,6.09,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,GRD SSA PARF VARIES 20X90G BV
+30 CAPSUL ALU RISTRETTO MR,1.0,5.19,5.19,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Capsules café
+PREP CULINAIRE SOJA BIO 3X200M,1.0,1.61,1.61,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Crème végétale (cuisine)
+JB SIROP D'AGAVE BIO 50CL,1.0,6.45,6.45,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Sirop d'agave
+BEURRE CACAHUETES CRUNCHY BIO,1.0,3.84,3.84,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Beurre de cacahuètes
+LAIT DE COCO ALLEGE SW 200ML,3.0,1.62,4.86,EPICERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Lait de coco
+"CRISTALINE 1,5L X 6",1.0,1.11,1.11,LIQUIDE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Eau plate x6
+SANPELLEGRINO CITRON-FRAMBOISE,1.0,3.6,3.6,LIQUIDE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Citron
+EPONGES GRAT MULTI-USAGE X6,1.0,1.75,1.75,DROGUERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Éponges
+* PH BLANC X 6 3PLIS UNIVERT,1.0,2.35,2.35,HYGIENE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Papier toilette
+* BANANE SACHET X 5,1.0,1.69,1.69,FRUITS ET LEGUMES,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Banane
+* AVOCAT,5.0,1.39,6.95,FRUITS ET LEGUMES,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Avocat
+GALETTES EPIN FROM2X100G N&VIE,1.0,1.99,1.99,TRAITEUR LIBRE SERVICE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Galettes épinard-fromage
+EMINCES 100% VEGET.160G ACCRO,2.0,2.23,4.46,TRAITEUR LIBRE SERVICE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Émincés végétaux
+STEAK GOURMAND POIVRE/PERSIL 16,1.0,2.6,2.6,TRAITEUR LIBRE SERVICE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Steak végétal
+GG LE CLASSIQUE SOJA BLE X2 172,1.0,2.62,2.62,TRAITEUR LIBRE SERVICE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Steaks soja-blé
+HOUMMOUS 200G TABLE DU MONDE,2.0,1.49,2.98,SAURISSERIE,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Houmous
+COTTAGE CHEESE NATURE 180GX2,1.0,3.88,3.88,ULTRAS FRAIS,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Cottage cheese
+PETIT YOPLAIT 3.8% X12,2.0,1.89,3.78,ULTRAS FRAIS,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Yaourt Yoplait x12
+FROMAGE BLANC NATURE 3%MG 1KG,1.0,1.97,1.97,ULTRAS FRAIS,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Fromage blanc
+12 OEUFS PLEIN AIR LNA,2.0,3.62,7.24,ULTRAS FRAIS,2026-01-14,Leclerc,E.Leclerc - Ticket du 14.01.2026.pdf,Œufs x12
+ANANAS,1.0,2.14,2.14,,2025-09-14,Leclerc,E.Leclerc - Ticket du 14.09.2025.pdf,Ananas
+ANANAS,1.0,2.48,2.48,,2025-09-14,Leclerc,E.Leclerc - Ticket du 14.09.2025.pdf,Ananas
+ANANAS,1.0,2.68,2.68,,2025-09-14,Leclerc,E.Leclerc - Ticket du 14.09.2025.pdf,Ananas
+ANANAS KIWI,1.0,2.47,2.47,,2025-09-14,Leclerc,E.Leclerc - Ticket du 14.09.2025.pdf,Ananas Kiwi (jus)
+ANANAS KIWI,1.0,2.28,2.28,,2025-09-14,Leclerc,E.Leclerc - Ticket du 14.09.2025.pdf,Ananas Kiwi (jus)
+PASTEQUE,1.0,1.61,1.61,,2025-09-14,Leclerc,E.Leclerc - Ticket du 14.09.2025.pdf,Pastèque
+PASTEQUE,1.0,2.22,2.22,,2025-09-14,Leclerc,E.Leclerc - Ticket du 14.09.2025.pdf,Pastèque
+PASTEQUE,1.0,1.92,1.92,,2025-09-14,Leclerc,E.Leclerc - Ticket du 14.09.2025.pdf,Pastèque
+CANNELLE MOULUE DUCROS FL 39G,1.0,1.16,1.16,EPICERIE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Cannelle
+MUSCADE MOULUE,1.0,1.95,1.95,EPICERIE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Muscade
+10 CAPS ALU CAFE RISTRE 52G PL,1.0,2.24,2.24,EPICERIE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Capsules café
+10 CAPS ALU BRESIL 52G PLANTA,1.0,2.39,2.39,EPICERIE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Capsules café
+FLEUR DE SEL DE GUERANDE 1 125,1.0,2.58,2.58,EPICERIE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Fleur de sel
+DOUBLE CONCENTRE TOMATE J.BIO,1.0,0.79,0.79,EPICERIE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Concentré de tomate
+LAIT DE COCO KARA 200 ML,1.0,1.03,1.03,EPICERIE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Lait de coco
+MOUCHOIRS ETUIS 15X9 CARESSE,1.0,1.16,1.16,HYGIENE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Mouchoirs
+ABRICOT VRAC,0.254,3.19,0.81,FRUITS ET LEGUMES,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Abricot
+CITRON JAUNE,0.262,3.95,1.03,FRUITS ET LEGUMES,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Citron
+COURGETTE VERTE LONGUE,0.586,1.19,0.7,FRUITS ET LEGUMES,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Courgette
+POIVRON ROUGE,0.728,4.99,3.63,FRUITS ET LEGUMES,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Poivron rouge
+BANANE 4 DOIGTS ECO+,1.0,0.79,0.79,FRUITS ET LEGUMES,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Banane
+AVOCAT,3.0,1.39,4.17,FRUITS ET LEGUMES,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Avocat
+CONCOMBRE,1.0,1.49,1.49,FRUITS ET LEGUMES,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Concombre
+COEUR DE SUCRINE *3 (0.95E),1.0,0.95,0.95,FRUITS ET LEGUMES,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Salade sucrine
+TOFU FUME BIO 200G,1.0,2.98,2.98,TRAITEUR LIBRE SERVICE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Tofu
+TIELLES SETOISES 2X110G,1.0,2.94,2.94,SAURISSERIE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Tielles sétoises
+12 OEUFS PLEIN AIR LNA,1.0,3.65,3.65,ULTRAS FRAIS,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Œufs x12
+SOJASUN TONYU NATURE 1 LITRE,1.0,1.52,1.52,CREMERIE LIBRE SERVICE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Boisson soja
+PREPARATION SOJA 3X20CL DELISS,1.0,1.89,1.89,CREMERIE LIBRE SERVICE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,Crème végétale (cuisine)
+COUTEAU CUISINE 17CM PRADEL,1.0,7.25,7.25,MENAGE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,COUTEAU CUISINE 17CM PRADEL
+3 TAMPONS INOX,1.0,3.99,3.99,MENAGE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,3 TAMPONS INOX
+SPATULE PATISSERIE MANCHE BOIS,1.0,2.5,2.5,MENAGE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,SPATULE PATISSERIE MANCHE BOIS
+5 COUVERCLES EXTENSIBLES E.1P,1.0,4.9,4.9,MENAGE,2025-07-15,Leclerc,E.Leclerc - Ticket du 15.07.2025.pdf,5 COUVERCLES EXTENSIBLES E.1P
+PROTEINES DE SOJA UAD,0.31,15.99,4.96,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Protéines de soja
+SARDINE HLE OLIV.HYACINTHE232G,3.0,3.14,9.42,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Sardines (boîte)
+FILET MAQUEREAU MOUTARDE 1/3,3.0,2.62,7.86,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Maquereau (boîte)
+HACHE VEGETAL BOLOGN.SOJA BIO,3.0,2.46,7.38,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Steak haché végétal
+EMINCE VEGGIE SAUCE MEXICAINE,4.0,3.16,12.64,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Émincés végétaux
+FLOCONS D'AVOINE BIO 1KG,1.0,3.88,3.88,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Flocons d'avoine
+EBLY BLE NAT 10MN 500G,1.0,1.82,1.82,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Blé
+BRET'S CHEVRE PIMENT ESPELETE,1.0,1.17,1.17,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Chips / snacks
+BRETS ARO PESTO MOZZARELLA,1.0,1.38,1.38,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Mozzarella
+RIZ BASMATI 1KG CDG,1.0,2.55,2.55,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Riz basmati
+CHOC NOIR 85%CACAO 100G T.D OR,3.0,1.53,4.59,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Chocolat noir 85%
+FILET MAQ GRI NAT MSC 1/4 97G P,3.0,1.88,5.64,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Maquereau (boîte)
+GRD SSA PARF VARIES 20X90G BV,1.0,6.09,6.09,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,GRD SSA PARF VARIES 20X90G BV
+RIZ LONG SEMI COMPLET 500G BV,1.0,2.22,2.22,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Riz semi-complet
+CEREALES DE CAMPAGNE TIPIAK330G,1.0,1.93,1.93,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Céréales
+BEURRE CACAHUETES CRUNCHY BIO,1.0,3.99,3.99,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Beurre de cacahuètes
+LAIT COCO SUZI WAN 200ML,1.0,1.25,1.25,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Lait de coco
+LAIT DE COCO ALLEGE SW 200ML,1.0,1.42,1.42,EPICERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Lait de coco
+PH BLANC X 6 3PLIS UNIVERT,1.0,2.37,2.37,HYGIENE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Papier toilette
+BTE MOUCHOIRS X 80 3 PLIS,1.0,1.26,1.26,HYGIENE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Mouchoirs
+* AVOCAT,4.0,1.39,5.56,FRUITS ET LEGUMES,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Avocat
+SPECIAL KEBAB 100% VEGETAL 160G,2.0,3.31,6.62,TRAITEUR LIBRE SERVICE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Kebab végétal
+STEAK GOURMAND POIVRE/PERSIL 16,1.0,2.57,2.57,TRAITEUR LIBRE SERVICE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Steak végétal
+GG LE CLASSIQUE SOJA ET BLE DU,1.0,5.07,5.07,TRAITEUR LIBRE SERVICE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Steaks soja-blé
+HOUMMOUS 200G TABLE DU MONDE,2.0,1.49,2.98,SAURISSERIE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Houmous
+PETIT YOPLAIT 3.8% X12,1.0,1.89,1.89,ULTRAS FRAIS,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Yaourt Yoplait x12
+FROMAGE BLANC NATURE 3%MG 1KG,1.0,1.98,1.98,ULTRAS FRAIS,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Fromage blanc
+12 OEUFS PLEIN AIR LNA,2.0,3.64,7.28,ULTRAS FRAIS,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Œufs x12
+SOJASUN TONYU NATURE 1 LITRE,2.0,1.52,3.04,CREMERIE LIBRE SERVICE,2026-02-16,Leclerc,E.Leclerc - Ticket du 16.02.2026.pdf,Boisson soja
+FARINE COMPLETE SARRASIN BIO,1.0,5.0,5.0,EPICERIE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Farine complète
+%* PATATE DOUCE ORANGE,1.512,2.95,4.46,FRUITS ET LEGUMES,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Patate douce (surgelée)
+NOIX DE CAJOU 300G,1.0,2.86,2.86,FRUITS ET LEGUMES,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Noix de cajou
+%* AVOCAT,3.0,1.39,4.17,FRUITS ET LEGUMES,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Avocat
+GALETTES EPIN FROM2X100G N&VIE,1.0,1.99,1.99,TRAITEUR LIBRE SERVICE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Galettes épinard-fromage
+TOFU 250G,2.0,1.99,3.98,TRAITEUR LIBRE SERVICE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Tofu
+EMINCES NATURE VEGETALE 160G,3.0,2.23,6.69,TRAITEUR LIBRE SERVICE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Émincés végétaux
+2X 1.99€,1.0,3.98,3.98,TRAITEUR LIBRE SERVICE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,2X 1.99€
+EMINCES 100% VEGET.160G ACCRO,2.0,2.23,4.46,TRAITEUR LIBRE SERVICE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Émincés végétaux
+HOUMOUS BLINI 200G,1.0,2.08,2.08,SAURISSERIE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Houmous
+COTTAGE CHEESE NATURE 180GX2,1.0,3.88,3.88,ULTRAS FRAIS,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Cottage cheese
+PETIT YOPLAIT NATURE 0% X12,3.0,2.35,7.05,ULTRAS FRAIS,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Yaourt Yoplait x12
+FROMAGE BLANC NATURE 3%MG 1KG,1.0,1.98,1.98,ULTRAS FRAIS,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Fromage blanc
+12 OEUFS PLEIN AIR LNA,1.0,3.75,3.75,ULTRAS FRAIS,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Œufs x12
+SACS POUBEL COULISSANT 3@LX20,1.0,2.09,2.09,MENAGE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Sacs poubelle
+SACS POUB COULISSANT 20LX20,1.0,2.05,2.05,MENAGE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,SACS POUB COULISSANT 20LX20
+LOT BRII5@%/2E MOINS CHER (X2),1.0,2.0,2.0,MENAGE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,LOT BRII5@%/2E MOINS CHER (X2)
+LOT BRII50%/2E MOINS CHER VEGE,1.0,1.0,1.0,MENAGE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,LOT BRII50%/2E MOINS CHER VEGE
+LOT BRII50%/2E MOINS CHER VEGE,1.0,1.0,1.0,MENAGE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,LOT BRII50%/2E MOINS CHER VEGE
+LOT BRII5@%/2E MOINS CHER VEGE,1.0,1.0,1.0,MENAGE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,LOT BRII5@%/2E MOINS CHER VEGE
+Lot LOT BRII 2M68PCT CEREAL BIO,1.0,1.84,1.84,MENAGE,2026-03-16,Leclerc,E.Leclerc - Ticket du 16.03.2026.pdf,Lot LOT BRII 2M68PCT CEREAL BIO
+CHOCO EXCELLENCE NR 85% LINDT,1.0,2.24,2.24,EPICERIE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Chocolat noir 85%
+SUCRE POUDRE DADDY KRAFT 750G,1.0,1.67,1.67,EPICERIE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Sucre
+FARINE COMPLETE SARRASIN BIO 5,1.0,2.99,2.99,EPICERIE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Farine complète
+10 CAPS ALU CAFE LUNGO 52G PLA,1.0,2.35,2.35,EPICERIE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Capsules café
+10 CAPS ALU BRESIL 52G PLANTA,1.0,2.39,2.39,EPICERIE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Capsules café
+COMPOTE VAR ALL BIO 12X90G BV,1.0,6.29,6.29,EPICERIE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Compote x12
+MAYO MOUTARDE BIO BOC 238G MR,1.0,2.34,2.34,EPICERIE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Mayonnaise
+BIERE AFFLIGEM BLE 25CLX6 NEW,1.0,5.35,5.35,LIQUIDE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Bière Affligem
+"EAU SOURCE 6X1,5L",1.0,1.66,1.66,LIQUIDE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Eau plate x6
+SANPELLEGRINO CLEMENTINE/PECHE,1.0,3.84,3.84,LIQUIDE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Pêche
+NETT VITROCLEN PISTOLET 250ML,1.0,2.34,2.34,DROGUERIE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Nettoyant vitrocéramique
+DECOLOR STOP X10,1.0,2.48,2.48,DROGUERIE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Décolor Stop
+LESS.EXPRESS MAIN BIOVIE 200ML,1.0,2.69,2.69,DROGUERIE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Lessive
+PECHE BLANCHE,0.8,4.99,3.99,FRUITS ET LEGUMES,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Pêche blanche
+AMANDE DECORTIQ.HOLYFRUITS 500G,1.0,4.98,4.98,FRUITS ET LEGUMES,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Amandes
+BANANE MAX HAVELAAR X5 BIO VILL,1.0,1.99,1.99,FRUITS ET LEGUMES,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Banane
+AVOCAT,2.0,1.39,2.78,FRUITS ET LEGUMES,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Avocat
+TOFU FUME BIO 200G,2.0,2.98,5.96,TRAITEUR LIBRE SERVICE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Tofu
+HOUMMOUS 200G TABLE DU MONDE,1.0,1.43,1.43,SAURISSERIE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Houmous
+TRUITE MER FUMEE 4TR 120G RDM,1.0,4.39,4.39,SAURISSERIE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Truite fumée
+OEUFS PL.AIR BIO CQLP X12,1.0,5.04,5.04,ULTRAS FRAIS,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Œufs x12
+FROMAGE BLANC NATURE 3%MG 1KG,1.0,1.92,1.92,ULTRAS FRAIS,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Fromage blanc
+"PETITS FROMAGE BLANC NAT3,8% 1",1.0,1.62,1.62,ULTRAS FRAIS,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Fromage blanc
+EAU DE COCO 1L,1.0,3.89,3.89,ULTRAS FRAIS,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,Eau de coco
+"FEUTRES ADHESIFS,,1P",1.0,1.89,1.89,MENAGE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,"FEUTRES ADHESIFS,,1P"
+CHAPELET 3 SACHETS LAVANDIN,1.0,3.95,3.95,MENAGE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,CHAPELET 3 SACHETS LAVANDIN
+POT LINDO 10 BROSSES POMME,1.0,1.99,1.99,MENAGE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,POT LINDO 10 BROSSES POMME
+4 CROCHETS ADH INOX RECTANGLE,1.0,3.49,3.49,MENAGE,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,4 CROCHETS ADH INOX RECTANGLE
+1 MARQUEUR SHARPIE TWIN TIP NO,1.0,1.94,1.94,PAPETERIE/CADRE/ALBUM,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,1 MARQUEUR SHARPIE TWIN TIP NO
+2X100 NOTES ROSE/VERT 1PCE,1.0,0.99,0.99,PAPETERIE/CADRE/ALBUM,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,2X100 NOTES ROSE/VERT 1PCE
+CARNET AV ENVEL CODE K,1.0,3.75,3.75,PAPETERIE/CADRE/ALBUM,2025-07-21,Leclerc,E.Leclerc - Ticket du 21.07.2025.pdf,CARNET AV ENVEL CODE K
+"PERRUCHE CASSONA.PDE B.SAY,750",1.0,2.44,2.44,EPICERIE,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,Sucre
+TOFU NATURE BJORG,4.0,2.64,10.56,EPICERIE,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,Tofu
+RIZ BASMATI 1KG CDG,2.0,2.55,5.1,EPICERIE,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,Riz basmati
+MOUTARDE ANCIENNE AOP BOURGOGN,1.0,1.39,1.39,EPICERIE,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,Moutarde à l'ancienne
+PDM TOASTILIGNE COMPLET 500G,2.0,1.46,2.92,EPICERIE,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,Pain de mie complet
+* HOVE BIO TERRA DELYSSA 0.75L,1.0,8.99,8.99,EPICERIE,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,Huile d'olive
+LAIT DE COCO LIGHT BRIQUE 200M,2.0,1.35,2.7,EPICERIE,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,Lait de coco
+SUN DW SLT REG CART 1K,1.0,1.07,1.07,DROGUERIE,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,Liquide vaisselle
+* BANANE SACHET X 5,1.0,1.69,1.69,FRUITS ET LEGUMES,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,Banane
+* AVOCAT,5.0,1.39,6.95,FRUITS ET LEGUMES,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,Avocat
+HOUMOUS DEGUSTATION 175G,2.0,2.25,4.5,SAURISSERIE,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,Houmous
+12 OEUFS PLEIN AIR LNA,2.0,3.61,7.22,ULTRAS FRAIS,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,Œufs x12
+BOITE RECT. 122 A/CV PURE BOX,2.0,7.49,14.98,MENAGE,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,BOITE RECT. 122 A/CV PURE BOX
+REVEIL DIGITAL RECT EFFET BOIS,1.0,13.99,13.99,MENAGE,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,REVEIL DIGITAL RECT EFFET BOIS
+DSITRIB SPRAY 250ML PLAST,1.0,1.99,1.99,MENAGE,2025-10-22,Leclerc,E.Leclerc - Ticket du 22.10.2025.pdf,Spray nettoyant
+SARDINE HLE OLIV.HYACINTHE232G,2.0,3.14,6.28,EPICERIE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Sardines (boîte)
+HACHE VEGETAL BOLOGN.SOJA BIO,3.0,2.46,7.38,EPICERIE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Steak haché végétal
+EMINCE VEGGIE SAUCE MEXICAINE,3.0,3.16,9.48,EPICERIE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Émincés végétaux
+ALLUMETTES VEGGIE 100G BIO,2.0,1.68,3.36,EPICERIE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Allumettes végétales
+RIZ BASMATI 1KG CDG,1.0,2.55,2.55,EPICERIE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Riz basmati
+30 CAPS ALU CAFE EQUIL 156G PL,1.0,5.19,5.19,EPICERIE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Capsules café
+COUSCOUS PARF.EPICE TIPIAK 510G,2.0,1.95,3.9,EPICERIE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Couscous
+BEURRE CACAHUETES CRUNCHY BIO,1.0,3.84,3.84,EPICERIE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Beurre de cacahuètes
+SANPELLEGRINO CLEMENTINE/PECHE,1.0,3.75,3.75,LIQUIDE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Pêche
+SANPELLEGRINO MOMENTI GRENADE 6,1.0,3.79,3.79,LIQUIDE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,San Pellegrino
+S PELLEGRINO MOM THE CITRON 6X3,1.0,3.64,3.64,LIQUIDE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Citron
+MOUCHOIRS BLANCS 15X9 UNI VERT,2.0,1.95,3.9,HYGIENE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Mouchoirs
+PH BLANC X 6 3PLIS UNIVERT,2.0,2.34,4.68,HYGIENE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Papier toilette
+BTE MOUCHOIRS X 80 3 PLIS,6.0,1.26,7.56,HYGIENE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Mouchoirs
+* BANANE SACHET X 5,1.0,1.69,1.69,FRUITS ET LEGUMES,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Banane
+* AVOCAT,3.0,1.39,4.17,FRUITS ET LEGUMES,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Avocat
+EMINCES 100% VEGET.160G ACCRO,1.0,2.23,2.23,TRAITEUR LIBRE SERVICE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Émincés végétaux
+FARCE 100% VEGETAL 200G ACCRO,1.0,2.27,2.27,TRAITEUR LIBRE SERVICE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Farce végétale
+HACHE TRAD 250G HEURA,1.0,3.99,3.99,TRAITEUR LIBRE SERVICE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Steak haché végétal
+HOUMMOUS 200G TABLE DU MONDE,1.0,1.43,1.43,SAURISSERIE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Houmous
+"PETITS FROMAGE BLANC NAT3,8% 1",2.0,1.64,3.28,ULTRAS FRAIS,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Fromage blanc
+OEUFS BIOLOGIQUES X10 MR,1.0,3.41,3.41,ULTRAS FRAIS,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Œufs x10
+SACS POUBEL COULISSANT 30LX20,1.0,2.11,2.11,MENAGE,2025-11-25,Leclerc,E.Leclerc - Ticket du 25.11.2025.pdf,Sacs poubelle
+12 OEUFS PLEIN AIR LNA,2.0,3.63,7.26,,2025-10-28,Leclerc,E.Leclerc - Ticket du 28.10.2025.pdf,Œufs x12
+BOITE DE CONSERVATION CARREE 6,1.0,2.0,2.0,,2025-10-28,Leclerc,E.Leclerc - Ticket du 28.10.2025.pdf,BOITE DE CONSERVATION CARREE 6
+VINAIGRE PULPE DE MANGUE,1.0,4.29,4.29,EPICERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Vinaigre
+COUSCOUS PARFUME EPICES DOUCES,1.0,2.02,2.02,EPICERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Couscous
+PAPRIKA DOUX,1.0,3.35,3.35,EPICERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Paprika
+HACHE VEGETAL BOLOGN.SOJA BIO,2.0,2.54,5.08,EPICERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Steak haché végétal
+TOFU NATURE BJORG,2.0,2.64,5.28,EPICERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Tofu
+SEITAN 85G BIO X2,1.0,4.37,4.37,EPICERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Seitan x2
+CUISINE VEGETALE FLUIDE,3.0,1.06,3.18,EPICERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Crème végétale (cuisine)
+FLOCONS D'AVOINE BIO 1KG,1.0,3.88,3.88,EPICERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Flocons d'avoine
+RIZ BASMATI 1KG CDG,1.0,2.55,2.55,EPICERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Riz basmati
+LAIT AMANDE SSA BK BIO 1L,3.0,1.41,4.23,EPICERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Lait d'amande
+TABOULE ORIENT TIPIAK 300G,1.0,2.29,2.29,EPICERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Taboulé
+EPEAUTRE GOURMAND 2X175G,1.0,2.85,2.85,EPICERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Épeautre
+SANPELLEGRINO CITRON-FRAMBOISE,1.0,3.6,3.6,LIQUIDE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Citron
+SANPELLEGRINO CLEMENTINE/PECHE,1.0,3.84,3.84,LIQUIDE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Pêche
+S.PELLEGRINO ESSENZA PAMPLEMOUS,1.0,3.24,3.24,LIQUIDE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,San Pellegrino
+DECOLOR STOP X10,1.0,2.48,2.48,DROGUERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Décolor Stop
+SAVON NOIR LIQ 1L,1.0,2.48,2.48,DROGUERIE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Savon noir
+* TOMATE COTELEE TYPE NOIRE CRIME,1.628,2.99,4.87,FRUITS ET LEGUMES,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Tomate
+* CITRON JAUNE,0.212,3.95,0.84,FRUITS ET LEGUMES,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Citron
+* PECHE BLANCHES FILIERE X4 PDP,1.0,3.79,3.79,FRUITS ET LEGUMES,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Pêche blanche
+* AVOCAT HASS 2FRUITS BIOVILLAGE,1.0,3.49,3.49,FRUITS ET LEGUMES,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Avocat
+* MELON DE CAVAILLON,1.0,2.79,2.79,FRUITS ET LEGUMES,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Melon
+* POMME BICOLORE BQT 4 FRUITS (0.,1.0,0.95,0.95,FRUITS ET LEGUMES,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Pomme
+HOUMOUS NATURE BIO 175G PO 6BE,1.0,2.89,2.89,FRUITS ET LEGUMES,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Houmous
+* MOZZARELLA LAIT DE VACHE 3 X 10,1.0,4.6,4.6,FROMAGE TRADITIONNEL,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Mozzarella x10
+ENCORNET GEANT CUIT ENTIER,1.0,6.25,6.25,POISSONNERIE TRAD,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Encornet
+HACHE VEGETAL 200G TIBA TEMPEH,1.0,4.85,4.85,TRAITEUR LIBRE SERVICE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Steak haché végétal
+FROMAGE BLANC NATURE 3%MG 1KG,1.0,1.92,1.92,ULTRAS FRAIS,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Fromage blanc
+"PETITS FROMAGE BLANC NAT3,8% 1",1.0,1.62,1.62,ULTRAS FRAIS,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Fromage blanc
+OEUFS BIOLOGIQUES X10 MR,1.0,3.41,3.41,ULTRAS FRAIS,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Œufs x10
+EAU DE COCO 1L,1.0,3.99,3.99,ULTRAS FRAIS,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Eau de coco
+PARMIGIANO REGG.RAPE 30%MG 60G,1.0,1.09,1.09,CREMERIE LIBRE SERVICE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,Parmesan râpé
+PASSOIRE RETRACTABLE ROND,1.0,3.59,3.59,MENAGE,2025-08-30,Leclerc,E.Leclerc - Ticket du 30.08.2025.pdf,PASSOIRE RETRACTABLE ROND
+Lég wok 600g,1.0,2.8,2.8,Surgelés,2025-11-03,Picard,5a2126d2-23a4-4b24-b6e6-56c09fb2dd7b.pdf,Légumes wok (surgelé)
+Ratatouille 1k,2.0,4.55,9.1,Surgelés,2025-11-03,Picard,5a2126d2-23a4-4b24-b6e6-56c09fb2dd7b.pdf,Ratatouille (surgelée)
+Lég pour wok,1.0,2.7,2.7,Surgelés,2025-11-03,Picard,5a2126d2-23a4-4b24-b6e6-56c09fb2dd7b.pdf,Légumes wok (surgelé)
+Légume basqu,1.0,5.99,5.99,Surgelés,2025-11-03,Picard,5a2126d2-23a4-4b24-b6e6-56c09fb2dd7b.pdf,Légumes wok (surgelé)
+Fil colin Alaska800,2.0,11.5,23.0,Surgelés,2025-11-03,Picard,5a2126d2-23a4-4b24-b6e6-56c09fb2dd7b.pdf,Colin (surgelé)
+Julienne s/résid,1.0,2.25,2.25,Surgelés,2025-11-03,Picard,5a2126d2-23a4-4b24-b6e6-56c09fb2dd7b.pdf,Julienne (surgelée)
+Cocktail 3 mer,2.0,9.5,19.0,Surgelés,2025-11-03,Picard,5a2126d2-23a4-4b24-b6e6-56c09fb2dd7b.pdf,Fruits de mer (surgelé)
+Poêlé lég 600g,2.0,3.99,7.98,Surgelés,2026-02-04,Picard,5d3f8de0-095c-4105-9cd8-a2546cb50bba.pdf,Poêlée de légumes (surgelée)
+Tr colin Alask,3.0,5.99,17.97,Surgelés,2026-02-04,Picard,5d3f8de0-095c-4105-9cd8-a2546cb50bba.pdf,Colin (surgelé)
+Sal frt rouge,1.0,7.99,7.99,Surgelés,2026-02-04,Picard,5d3f8de0-095c-4105-9cd8-a2546cb50bba.pdf,Saumon (surgelé)
+Salade F.exo,1.0,7.49,7.49,Surgelés,2026-02-04,Picard,5d3f8de0-095c-4105-9cd8-a2546cb50bba.pdf,Salade exotique (surgelée)
+Légume basqu,2.0,5.99,11.98,Surgelés,2026-02-04,Picard,5d3f8de0-095c-4105-9cd8-a2546cb50bba.pdf,Légumes wok (surgelé)
+Ch émincés 1kg,1.0,3.8,3.8,Surgelés,2026-02-04,Picard,5d3f8de0-095c-4105-9cd8-a2546cb50bba.pdf,Poulet émincé
+Julienne s/résidu,2.0,2.25,4.5,Surgelés,2026-02-04,Picard,5d3f8de0-095c-4105-9cd8-a2546cb50bba.pdf,Julienne (surgelée)
+Ratatouille 1k,2.0,4.55,9.1,Surgelés,2026-02-04,Picard,5d3f8de0-095c-4105-9cd8-a2546cb50bba.pdf,Ratatouille (surgelée)
+Ratatouille 1k,1.0,4.55,4.55,Surgelés,2025-09-16,Picard,65c5379d-94ff-4fd6-98c9-d6932109bc54.pdf,Ratatouille (surgelée)
+Légume basqu,1.0,5.99,5.99,Surgelés,2025-09-16,Picard,65c5379d-94ff-4fd6-98c9-d6932109bc54.pdf,Légumes wok (surgelé)
+Julienne s/résid,1.0,2.25,2.25,Surgelés,2025-09-16,Picard,65c5379d-94ff-4fd6-98c9-d6932109bc54.pdf,Julienne (surgelée)
+Cubes XL 1 kg,1.0,2.99,2.99,Surgelés,2025-09-16,Picard,65c5379d-94ff-4fd6-98c9-d6932109bc54.pdf,Cubes légumes XL (surgelé)
+Filet dorade 800,1.0,15.99,15.99,Surgelés,2025-09-16,Picard,65c5379d-94ff-4fd6-98c9-d6932109bc54.pdf,Dorade (surgelée)
+Sal frt rouge,1.0,6.99,6.99,Surgelés,2025-09-16,Picard,65c5379d-94ff-4fd6-98c9-d6932109bc54.pdf,Saumon (surgelé)
+Lég pour wok,1.0,2.7,2.7,Surgelés,2025-09-16,Picard,65c5379d-94ff-4fd6-98c9-d6932109bc54.pdf,Légumes wok (surgelé)
+Salade F.exo,1.0,7.49,7.49,Surgelés,2025-10-15,Picard,dad2e1d2-e4a1-44b8-bcb3-d68f70490806.pdf,Salade exotique (surgelée)
+Mél moule MSC,1.0,7.99,7.99,Surgelés,2025-10-15,Picard,dad2e1d2-e4a1-44b8-bcb3-d68f70490806.pdf,Fruits de mer (surgelé)
+Patade douce SRP,2.0,3.9,7.8,Surgelés,2025-10-15,Picard,dad2e1d2-e4a1-44b8-bcb3-d68f70490806.pdf,Patate douce (surgelée)
+Lég wok 600g,1.0,2.8,2.8,Surgelés,2025-10-15,Picard,dad2e1d2-e4a1-44b8-bcb3-d68f70490806.pdf,Légumes wok (surgelé)
+Poêlé lég 600g,1.0,3.99,3.99,Surgelés,2025-10-15,Picard,dad2e1d2-e4a1-44b8-bcb3-d68f70490806.pdf,Poêlée de légumes (surgelée)
+Ratatouille 1k,1.0,4.55,4.55,Surgelés,2025-10-15,Picard,dad2e1d2-e4a1-44b8-bcb3-d68f70490806.pdf,Ratatouille (surgelée)
+Julienne s/résid,1.0,2.25,2.25,Surgelés,2025-10-15,Picard,dad2e1d2-e4a1-44b8-bcb3-d68f70490806.pdf,Julienne (surgelée)
+Légume basqu,1.0,5.99,5.99,Surgelés,2025-10-15,Picard,dad2e1d2-e4a1-44b8-bcb3-d68f70490806.pdf,Légumes wok (surgelé)
+Fil colin Alaska,1.0,11.5,11.5,Surgelés,2025-10-15,Picard,dad2e1d2-e4a1-44b8-bcb3-d68f70490806.pdf,Colin (surgelé)
+Ratatouille 1k,2.0,4.55,9.1,Surgelés,2025-12-15,Picard,feff0f66-d640-436c-8b13-43c745287aff.pdf,Ratatouille (surgelée)
+Poêlé lég 600g,2.0,3.99,7.98,Surgelés,2025-12-15,Picard,feff0f66-d640-436c-8b13-43c745287aff.pdf,Poêlée de légumes (surgelée)
+Salade F.exo,2.0,7.49,14.98,Surgelés,2025-12-15,Picard,feff0f66-d640-436c-8b13-43c745287aff.pdf,Salade exotique (surgelée)
+Lég wok 600g,2.0,2.8,5.6,Surgelés,2025-12-15,Picard,feff0f66-d640-436c-8b13-43c745287aff.pdf,Légumes wok (surgelé)
+Julienne s/résidu,2.0,2.25,4.5,Surgelés,2025-12-15,Picard,feff0f66-d640-436c-8b13-43c745287aff.pdf,Julienne (surgelée)
+Légume basqu,2.0,5.99,11.98,Surgelés,2025-12-15,Picard,feff0f66-d640-436c-8b13-43c745287aff.pdf,Légumes wok (surgelé)
+CN LUNGO N6 CAPS 30X,1.0,9.39,9.39,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Capsules café x30
+OEUF NICEUF PAIR X6,1.0,1.53,1.53,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Œufs x6
+OEUF NICEUF PAIR X6,1.0,1.53,1.53,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Œufs x6
+OEUF NICEUF PAIR X6,1.0,1.53,1.53,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Œufs x6
+OEUF NICEUF PAIR X6,1.0,1.53,1.53,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Œufs x6
+TIPIAK COUSCOUS EP.M,1.0,2.22,2.22,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Couscous
+TIPIAK COUSCOUS EP.D,1.0,2.35,2.35,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Couscous
+LES CREAT TAB CHOC N,1.0,2.2,2.2,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Chocolat noir 85%
+PAT VEG BOISSON AMAN,1.0,2.14,2.14,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Lait d'amande
+PAT VEG BOISSON AMAN,1.0,2.14,2.14,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Lait d'amande
+PAT FROMAGE BLANC 3.,1.0,2.22,2.22,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Fromage blanc
+PAT FROM FRAIS 3.6%M,1.0,1.84,1.84,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Fromage frais
+PAT FROMAGE BLANC 3.,1.0,2.22,2.22,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Fromage blanc
+AVOCAT AFFINE GROS C,1.0,1.59,1.59,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Avocat
+AVOCAT AFFINE GROS C,1.0,1.59,1.59,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Avocat
+PAT VEG BOISSON AMAN,1.0,2.14,2.14,,2026-02-05,Intermarché,1122e654-270b-47d7-997a-047f8e71f47c.pdf,Lait d'amande
+LA BOUL TOASTLIGNE C,1.0,1.64,1.64,,2026-01-25,Intermarché,29b1acf1-ff20-4282-be6f-45c09347091a.pdf,Pain de mie complet
+LA BOUL TOASTLIGNE C,1.0,1.64,1.64,,2026-01-25,Intermarché,29b1acf1-ff20-4282-be6f-45c09347091a.pdf,Pain de mie complet
+POMME GOLDEN 6 FRUIT,1.0,2.59,2.59,,2026-01-25,Intermarché,29b1acf1-ff20-4282-be6f-45c09347091a.pdf,Pomme
+6 OEUFS PLEIN AIR-CA,1.0,2.26,2.26,,2026-01-25,Intermarché,29b1acf1-ff20-4282-be6f-45c09347091a.pdf,Œufs x6
+IDS HOUMOUS 180GR,1.0,1.7,1.7,,2026-01-25,Intermarché,29b1acf1-ff20-4282-be6f-45c09347091a.pdf,Houmous
+6 OEUFS PLEIN AIR-CA,1.0,2.26,2.26,,2026-01-25,Intermarché,29b1acf1-ff20-4282-be6f-45c09347091a.pdf,Œufs x6
+PAT FROM FRAIS 3.6%M,1.0,1.86,1.86,,2026-01-25,Intermarché,29b1acf1-ff20-4282-be6f-45c09347091a.pdf,Fromage frais
+AVOCAT AFFINE GROS C,1.0,1.39,1.39,,2026-01-25,Intermarché,29b1acf1-ff20-4282-be6f-45c09347091a.pdf,Avocat
+AVOCAT AFFINE GROS C,1.0,1.39,1.39,,2026-01-25,Intermarché,29b1acf1-ff20-4282-be6f-45c09347091a.pdf,Avocat
+AVOCAT AFFINE GROS C,1.0,1.39,1.39,,2026-01-25,Intermarché,29b1acf1-ff20-4282-be6f-45c09347091a.pdf,Avocat
+AVOCAT AFFINE GROS C,1.0,1.39,1.39,,2026-01-25,Intermarché,29b1acf1-ff20-4282-be6f-45c09347091a.pdf,Avocat
+VICO CURLY DONUTS 10,1.0,1.2,1.2,,2025-07-11,Intermarché,2d6eeb8a-afdc-41cc-a489-3b62770a5ae1.pdf,Chips / snacks
+SCHWEPPES GINGER BEE,1.0,1.92,1.92,,2025-07-11,Intermarché,2d6eeb8a-afdc-41cc-a489-3b62770a5ae1.pdf,Ginger beer
+VDF CUVEE DES PRINCE,1.0,5.95,5.95,,2025-07-11,Intermarché,2d6eeb8a-afdc-41cc-a489-3b62770a5ae1.pdf,Vin
+CONCOMBRE PIECE,1.0,1.89,1.89,,2025-07-11,Intermarché,2d6eeb8a-afdc-41cc-a489-3b62770a5ae1.pdf,Concombre
+FARINES DES POIS DE,1.0,2.88,2.88,,2025-07-11,Intermarché,2d6eeb8a-afdc-41cc-a489-3b62770a5ae1.pdf,Farine de pois
+ODYSSEE THON PECHE C,1.0,1.76,1.76,,2025-07-11,Intermarché,2d6eeb8a-afdc-41cc-a489-3b62770a5ae1.pdf,Thon (boîte)
+DUCROS ANETH 13G,1.0,1.99,1.99,,2025-07-11,Intermarché,2d6eeb8a-afdc-41cc-a489-3b62770a5ae1.pdf,Aneth
+CHAB FARINE SEMICOMP,1.0,1.52,1.52,,2025-07-11,Intermarché,2d6eeb8a-afdc-41cc-a489-3b62770a5ae1.pdf,Farine complète
+"0,660 kg X 2,49EURO/kg",1.0,1.64,1.64,,2025-07-11,Intermarché,2d6eeb8a-afdc-41cc-a489-3b62770a5ae1.pdf,Vrac (vente au poids)
+MELON PIECE,1.0,2.89,2.89,,2025-07-11,Intermarché,2d6eeb8a-afdc-41cc-a489-3b62770a5ae1.pdf,Melon
+"0,775 kg X 3,49EURO/kg",1.0,2.7,2.7,,2025-07-11,Intermarché,2d6eeb8a-afdc-41cc-a489-3b62770a5ae1.pdf,Vrac (vente au poids)
+SOJASUN NATURE UHT B,1.0,1.69,1.69,,2025-07-11,Intermarché,2d6eeb8a-afdc-41cc-a489-3b62770a5ae1.pdf,Boisson soja
+BJORG BOIS.AMANDE 1L,1.0,2.62,2.62,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Lait d'amande
+BJORG BOIS.AMANDE 1L,1.0,2.62,2.62,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Lait d'amande
+LES CREA CHOC.NOIR 8,1.0,1.71,1.71,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Chocolat noir 85%
+LES CREA CHOC.NOIR 8,1.0,1.71,1.71,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Chocolat noir 85%
+SED ENCORNET GEANT C,1.0,6.99,6.99,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Encornet
+PAT FROM FRAIS 3.6%M,1.0,1.62,1.62,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Fromage frais
+SUNNYBIO SIROP AGAVE,1.0,5.42,5.42,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Sirop d'agave
+ATELIER BLINI HOUMOU,1.0,2.8,2.8,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Houmous
+ATELIER BLINI HOUMOU,1.0,2.8,2.8,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Houmous
+SED ENCORNET GEANT C,1.0,6.99,6.99,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Encornet
+PATURAGES MOZZARELLA,1.0,2.76,2.76,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Mozzarella
+12 OEUFS BIO - CAL M,1.0,6.37,6.37,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Œufs x12
+"5 X 1,59 EUR",1.0,7.95,7.95,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,"5 X 1,59 EUR"
+12 OEUFS BIO - CAL M,1.0,6.37,6.37,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Œufs x12
+"1,095 kg X 1,99EURO/kg",1.0,2.18,2.18,,2025-09-30,Intermarché,389c4f98-46e5-4ffe-954d-738b736b9761.pdf,Vrac (vente au poids)
+OEUF NICEUF PAIR,1.0,2.98,2.98,,2025-07-26,Intermarché,43a1816a-27ac-4d8b-b4ab-d6751293779f.pdf,Œufs
+"0,460 kg X 4,29EURO/kg",1.0,1.97,1.97,,2025-07-26,Intermarché,43a1816a-27ac-4d8b-b4ab-d6751293779f.pdf,Vrac (vente au poids)
+PAQUI GOURD MULT VAR,1.0,6.3,6.3,,2025-08-19,Intermarché,4515e168-101d-4e94-8b53-b63497c9d32c.pdf,Gourde de fruits
+PAT FROMAGE BLANC 3.,1.0,1.92,1.92,,2025-08-19,Intermarché,4515e168-101d-4e94-8b53-b63497c9d32c.pdf,Fromage blanc
+PAT FROMAGE BLANC 3.,1.0,1.92,1.92,,2025-08-19,Intermarché,4515e168-101d-4e94-8b53-b63497c9d32c.pdf,Fromage blanc
+BJORG BOIS.AMANDE S/,1.0,1.93,1.93,,2025-08-19,Intermarché,4515e168-101d-4e94-8b53-b63497c9d32c.pdf,Lait d'amande
+"1,015 kg X 3,79EURO/kg",1.0,3.85,3.85,,2025-08-19,Intermarché,4515e168-101d-4e94-8b53-b63497c9d32c.pdf,Vrac (vente au poids)
+BANANES 5 FRUITS,1.0,2.8,2.8,,2025-08-19,Intermarché,4515e168-101d-4e94-8b53-b63497c9d32c.pdf,Banane
+LINDT EXCELLENCE NOI,1.0,2.45,2.45,,2025-08-19,Intermarché,4515e168-101d-4e94-8b53-b63497c9d32c.pdf,Chocolat Lindt
+LINDT EXCELLENCE NOI,1.0,2.45,2.45,,2025-08-19,Intermarché,4515e168-101d-4e94-8b53-b63497c9d32c.pdf,Chocolat Lindt
+6 OEUFS BIO - CAL. M,1.0,3.32,3.32,,2025-08-19,Intermarché,4515e168-101d-4e94-8b53-b63497c9d32c.pdf,Œufs x6
+BJORG TOFU NATURE 2X,1.0,3.24,3.24,,2025-08-19,Intermarché,4515e168-101d-4e94-8b53-b63497c9d32c.pdf,Tofu x2
+BJORG TOFU NATURE 2X,1.0,3.24,3.24,,2025-08-19,Intermarché,4515e168-101d-4e94-8b53-b63497c9d32c.pdf,Tofu x2
+REGAIN SIROP AGAVE B,1.0,2.54,2.54,,2025-08-19,Intermarché,4515e168-101d-4e94-8b53-b63497c9d32c.pdf,Sirop d'agave
+REGAIN TOAST 4 CERE.,1.0,1.59,1.59,,2025-08-19,Intermarché,4515e168-101d-4e94-8b53-b63497c9d32c.pdf,Toast céréales
+FLOR.GRIS.ARTIG.MULT,1.0,2.52,2.52,,2025-09-01,Intermarché,50ebd078-64b9-4f30-a7bf-575d1e6d2524.pdf,Artichaut
+DEB FUET PUR PORC140,1.0,3.45,3.45,,2025-09-01,Intermarché,50ebd078-64b9-4f30-a7bf-575d1e6d2524.pdf,Fuet (charcuterie)
+PTITE BTL D'EAU/CAN.,1.0,1.0,1.0,,2025-09-01,Intermarché,50ebd078-64b9-4f30-a7bf-575d1e6d2524.pdf,Eau (petite bouteille)
+IDS JAMBON SPECK 9T,1.0,2.74,2.74,,2025-09-01,Intermarché,50ebd078-64b9-4f30-a7bf-575d1e6d2524.pdf,Jambon Speck
+GALBANI BURRATA 150G,1.0,4.0,4.0,,2025-09-01,Intermarché,50ebd078-64b9-4f30-a7bf-575d1e6d2524.pdf,Burrata
+CHIPS BRETS BEURRE S,1.0,2.35,2.35,,2025-09-01,Intermarché,50ebd078-64b9-4f30-a7bf-575d1e6d2524.pdf,Chips / snacks
+NUII4BAT SALTED CARA,1.0,4.82,4.82,,2025-09-01,Intermarché,50ebd078-64b9-4f30-a7bf-575d1e6d2524.pdf,Barre chocolatée
+LES CREA BURRATA BAS,1.0,2.79,2.79,,2025-09-01,Intermarché,50ebd078-64b9-4f30-a7bf-575d1e6d2524.pdf,Burrata
+PAT FROMAGE BLANC 3.,1.0,1.92,1.92,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Fromage blanc
+TIPIAK COUSCOUS EP.M,1.0,2.25,2.25,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Couscous
+BJORG BOIS.AMANDE S/,1.0,1.77,1.77,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Lait d'amande
+BJORG BOIS.AMANDE S/,1.0,1.77,1.77,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Lait d'amande
+BJORG TOFU NATURE 2X,1.0,3.24,3.24,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Tofu x2
+PAT FROMAGE BLANC 3.,1.0,1.92,1.92,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Fromage blanc
+SIROP D'AGAVE BIO 35,1.0,4.64,4.64,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Sirop d'agave
+PAT FROM FRAIS 3.6%M,1.0,1.62,1.62,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Fromage frais
+CN ESPR PUISS.N11 CA,1.0,9.85,9.85,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Capsules café
+10 OEUFS BIO PACA PL,1.0,5.89,5.89,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Œufs x10
+LES CREA CHOC.NOIR 8,1.0,1.71,1.71,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Chocolat noir 85%
+LES CREA CHOC.NOIR 8,1.0,1.71,1.71,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Chocolat noir 85%
+LES CREA CHOC.NOIR 8,1.0,1.71,1.71,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Chocolat noir 85%
+PATURAGES MOZZARELLA,1.0,0.93,0.93,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Mozzarella
+ALSA LEV.CHIM.ALSAC.,1.0,0.69,0.69,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Levure chimique
+PATURAGES MOZZARELLA,1.0,0.93,0.93,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Mozzarella
+"1,450 kg X 2,89EURO/kg",1.0,4.19,4.19,,2025-09-12,Intermarché,594633b1-925c-4efd-9d82-b7ab4d6ad252.pdf,Vrac (vente au poids)
+"0,240 kg X 4,59EURO/kg",1.0,1.1,1.1,,2026-03-07,Intermarché,5bc1c8e7-828a-4525-8602-10366ac44c1e.pdf,Vrac (vente au poids)
+ST ELOI CHOU ROUGE 2,1.0,1.44,1.44,,2026-03-07,Intermarché,5bc1c8e7-828a-4525-8602-10366ac44c1e.pdf,Chou rouge
+"0,110 kg X 5,89EURO/kg",1.0,0.65,0.65,,2026-03-07,Intermarché,5bc1c8e7-828a-4525-8602-10366ac44c1e.pdf,Vrac (vente au poids)
+"0,330 kg X 3,79EURO/kg",1.0,1.25,1.25,,2026-03-07,Intermarché,5bc1c8e7-828a-4525-8602-10366ac44c1e.pdf,Vrac (vente au poids)
+"0,335 kg X 3,29EURO/kg",1.0,1.1,1.1,,2026-03-07,Intermarché,5bc1c8e7-828a-4525-8602-10366ac44c1e.pdf,Vrac (vente au poids)
+ST ELOI MACHE SACHET,1.0,1.06,1.06,,2026-03-07,Intermarché,5bc1c8e7-828a-4525-8602-10366ac44c1e.pdf,Mâche
+6 OEUFS LABEL ROUGE,1.0,2.64,2.64,,2026-03-07,Intermarché,5bc1c8e7-828a-4525-8602-10366ac44c1e.pdf,Œufs x6
+6 OEUFS LABEL ROUGE,1.0,2.64,2.64,,2026-03-07,Intermarché,5bc1c8e7-828a-4525-8602-10366ac44c1e.pdf,Œufs x6
+6 OEUFS LABEL ROUGE,1.0,2.64,2.64,,2026-03-07,Intermarché,5bc1c8e7-828a-4525-8602-10366ac44c1e.pdf,Œufs x6
+FREED.MENTHE VERTEX5,1.0,2.65,2.65,,2026-03-07,Intermarché,5bc1c8e7-828a-4525-8602-10366ac44c1e.pdf,Chewing-gum
+6 OEUFS LABEL ROUGE,1.0,2.64,2.64,,2026-03-07,Intermarché,5bc1c8e7-828a-4525-8602-10366ac44c1e.pdf,Œufs x6
+PAQUITO GOURDE SSA P,1.0,5.7,5.7,,2025-12-06,Intermarché,60e5a2a2-4da2-4be3-9409-3e4db2e6cddc.pdf,Gourde de fruits
+Papier Cadeau Feerie,1.0,4.0,4.0,,2025-12-06,Intermarché,60e5a2a2-4da2-4be3-9409-3e4db2e6cddc.pdf,Papier Cadeau Feerie
+AVOCAT AFFINE GROS C,1.0,0.89,0.89,,2025-12-06,Intermarché,60e5a2a2-4da2-4be3-9409-3e4db2e6cddc.pdf,Avocat
+AVOCAT AFFINE GROS C,1.0,0.89,0.89,,2025-12-06,Intermarché,60e5a2a2-4da2-4be3-9409-3e4db2e6cddc.pdf,Avocat
+LES CREAT TAB CHOC N,1.0,2.17,2.17,,2025-12-06,Intermarché,60e5a2a2-4da2-4be3-9409-3e4db2e6cddc.pdf,Chocolat noir 85%
+LES CREAT TAB CHOC N,1.0,2.17,2.17,,2025-12-06,Intermarché,60e5a2a2-4da2-4be3-9409-3e4db2e6cddc.pdf,Chocolat noir 85%
+PAT FROM FRAIS 3.6%M,1.0,1.84,1.84,,2025-12-06,Intermarché,60e5a2a2-4da2-4be3-9409-3e4db2e6cddc.pdf,Fromage frais
+PAT FROM FRAIS 3.6%M,1.0,1.84,1.84,,2025-12-06,Intermarché,60e5a2a2-4da2-4be3-9409-3e4db2e6cddc.pdf,Fromage frais
+PAT FROMAGE BLANC 3.,1.0,2.23,2.23,,2025-12-06,Intermarché,60e5a2a2-4da2-4be3-9409-3e4db2e6cddc.pdf,Fromage blanc
+PAT FROMAGE BLANC 3.,1.0,2.23,2.23,,2025-12-06,Intermarché,60e5a2a2-4da2-4be3-9409-3e4db2e6cddc.pdf,Fromage blanc
+TOURTEL PECHE S/ALC.,1.0,3.11,3.11,,2025-07-14,Intermarché,7bfd9d6d-c1df-4d31-b5ba-9e3376d0e2dd.pdf,Pêche
+"0,705 kg X 3,99EURO/kg",1.0,2.81,2.81,,2025-07-14,Intermarché,7bfd9d6d-c1df-4d31-b5ba-9e3376d0e2dd.pdf,Vrac (vente au poids)
+TOMATE CERISE BARQUE,1.0,1.99,1.99,,2025-07-14,Intermarché,7bfd9d6d-c1df-4d31-b5ba-9e3376d0e2dd.pdf,Tomates cerises
+VOLAE 6 OEUFS PA G B,1.0,1.5,1.5,,2025-07-14,Intermarché,7bfd9d6d-c1df-4d31-b5ba-9e3376d0e2dd.pdf,Œufs x6
+ST ELOI POIS CHICHE,1.0,0.75,0.75,,2025-07-14,Intermarché,7bfd9d6d-c1df-4d31-b5ba-9e3376d0e2dd.pdf,Pois chiches
+PAQUITO EAU DE COCO,1.0,3.09,3.09,,2025-07-14,Intermarché,7bfd9d6d-c1df-4d31-b5ba-9e3376d0e2dd.pdf,Eau de coco
+IDS HOUMOUS 180GR,1.0,1.7,1.7,,2026-01-19,Intermarché,80349889-00dc-4742-928a-76164646df1b.pdf,Houmous
+OEUF NICEUF PAIR,1.0,2.98,2.98,,2026-01-19,Intermarché,80349889-00dc-4742-928a-76164646df1b.pdf,Œufs
+"0,300 kg X 1,69EURO/kg",1.0,0.51,0.51,,2026-01-19,Intermarché,80349889-00dc-4742-928a-76164646df1b.pdf,Vrac (vente au poids)
+AIRWAVES MENTHL EUCA,1.0,0.96,0.96,,2026-01-19,Intermarché,80349889-00dc-4742-928a-76164646df1b.pdf,Chewing-gum
+"0,225 kg X 3,65EURO/kg",1.0,0.82,0.82,,2026-01-19,Intermarché,80349889-00dc-4742-928a-76164646df1b.pdf,Vrac (vente au poids)
+MERCI SALADE MACHE 1,1.0,1.39,1.39,,2026-01-19,Intermarché,80349889-00dc-4742-928a-76164646df1b.pdf,Mâche
+CN ESPR CLASS N7 CAP,1.0,9.9,9.9,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Capsules café
+PUREE DE SESAME BLAN,1.0,5.78,5.78,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Tahini
+APTA SAC POUB LC 20X,1.0,2.39,2.39,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Sacs poubelle
+TIPIAK COUSCOUS EP.M,1.0,2.25,2.25,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Couscous
+ST ELOI RIZ BASMATI,1.0,2.91,2.91,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Riz basmati
+KARA LAIT DE COCO 20,1.0,1.13,1.13,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Lait de coco
+HUILE DE COCO,1.0,4.71,4.71,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Huile de coco
+BANANES 5 FRUITS,1.0,2.8,2.8,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Banane
+ATELIER BLINI HOUMOU,1.0,2.8,2.8,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Houmous
+BJORG TOFU NATURE 2X,1.0,3.24,3.24,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Tofu x2
+TOP BUDGET FROM BLAN,1.0,1.79,1.79,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Fromage blanc
+"2 X 0,99 EUR",1.0,1.98,1.98,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,"2 X 0,99 EUR"
+"0,580 kg X 4,79EURO/kg",1.0,2.78,2.78,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Vrac (vente au poids)
+SPONTEX COMB GRATTE,1.0,1.54,1.54,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Éponges
+IDS MORTADELLE 120GR,1.0,2.3,2.3,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Mortadelle
+IDS JAMBON SPECK 9T,1.0,2.74,2.74,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Jambon Speck
+TOP BUDGET TRUITE FU,1.0,2.49,2.49,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Truite fumée
+PATURAGES MOZZARELLA,1.0,0.93,0.93,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Mozzarella
+PATURAGES MOZZARELLA,1.0,0.93,0.93,,2025-08-05,Intermarché,803bd6d5-ceca-490e-9dee-71b4d0381e14.pdf,Mozzarella
+PAQUITO GOURDE SSA P,1.0,5.7,5.7,,2025-11-14,Intermarché,9abff789-7aa9-4e49-96d5-9b050b69c651.pdf,Gourde de fruits
+LA BOUL TOASTLIGNE C,1.0,1.65,1.65,,2025-11-14,Intermarché,9abff789-7aa9-4e49-96d5-9b050b69c651.pdf,Pain de mie complet
+PAT SUISSE NAT 9.2%M,1.0,2.09,2.09,,2025-11-14,Intermarché,9abff789-7aa9-4e49-96d5-9b050b69c651.pdf,Petit-suisse nature
+IDS 8 TORTILLAS MAIS,1.0,1.96,1.96,,2025-11-14,Intermarché,9abff789-7aa9-4e49-96d5-9b050b69c651.pdf,Tortillas maïs
+OEUF NICEUF PAIR,1.0,2.98,2.98,,2025-11-14,Intermarché,9abff789-7aa9-4e49-96d5-9b050b69c651.pdf,Œufs
+OEUF NICEUF PAIR,1.0,2.98,2.98,,2025-11-14,Intermarché,9abff789-7aa9-4e49-96d5-9b050b69c651.pdf,Œufs
+OEUF NICEUF PAIR,1.0,2.98,2.98,,2025-11-14,Intermarché,9abff789-7aa9-4e49-96d5-9b050b69c651.pdf,Œufs
+PARMENTIER SARD CIT,1.0,2.05,2.05,,2025-11-14,Intermarché,9abff789-7aa9-4e49-96d5-9b050b69c651.pdf,Parmentier de sardines
+IDS HOUMOUS 180GR,1.0,1.67,1.67,,2025-11-14,Intermarché,9abff789-7aa9-4e49-96d5-9b050b69c651.pdf,Houmous
+FRUITS ET LEGUMES,1.0,2.29,2.29,,2025-11-14,Intermarché,9abff789-7aa9-4e49-96d5-9b050b69c651.pdf,Fruits et légumes
+"0,850 kg X 2,29EURO/kg",1.0,1.95,1.95,,2025-11-14,Intermarché,9abff789-7aa9-4e49-96d5-9b050b69c651.pdf,Vrac (vente au poids)
+POMME GALA 6 FRUITS,1.0,2.59,2.59,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Pomme
+TIPIAK COUSCOUS EP.M,1.0,2.31,2.31,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Couscous
+TIPIAK COUSCOUS EP.M,1.0,2.31,2.31,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Couscous
+LA BOUL TOASTLIGNE C,1.0,1.65,1.65,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Pain de mie complet
+ODYSSEE MAQX MOUTARD,1.0,1.88,1.88,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Maquereau (boîte)
+ODYSSEE MAQX TOMATE,1.0,1.66,1.66,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Maquereau (boîte)
+ODYSSEE MAQX MUSCADE,1.0,1.6,1.6,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Maquereau (boîte)
+ODYSSEE MAQX MOUTARD,1.0,1.88,1.88,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Maquereau (boîte)
+PAT FROMAGE BLANC 3.,1.0,2.23,2.23,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Fromage blanc
+PAT FROM FRAIS 3.6%M,1.0,1.86,1.86,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Fromage frais
+LINDT EXCELLENCE NOI,1.0,2.45,2.45,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Chocolat Lindt
+LINDT EXCELLENCE NOI,1.0,2.45,2.45,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Chocolat Lindt
+LINDT EXCELLENCE NOI,1.0,2.45,2.45,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Chocolat Lindt
+PAT FROM FRAIS 3.6%M,1.0,1.86,1.86,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Fromage frais
+PAT FROM FRAIS 3.6%M,1.0,1.86,1.86,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Fromage frais
+AVOCAT AFFINE GROS C,1.0,1.19,1.19,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Avocat
+AVOCAT AFFINE GROS C,1.0,1.19,1.19,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Avocat
+AVOCAT AFFINE GROS C,1.0,1.19,1.19,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Avocat
+OEUF NICEUF PAIR,1.0,2.98,2.98,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Œufs
+OEUF NICEUF PAIR,1.0,2.98,2.98,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Œufs
+FLORETTE HOUMOUS 175,1.0,3.42,3.42,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Houmous
+OEUF NICEUF PAIR,1.0,2.98,2.98,,2025-12-29,Intermarché,9b9f51e3-70e0-4b58-8f86-d65fac294226.pdf,Œufs
+APTA ET COMPACT ECOL,1.0,3.16,3.16,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,APTA ET COMPACT ECOL
+PAT FROMAGE BLANC 3.,1.0,2.22,2.22,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Fromage blanc
+PAT FROM FRAIS 3.6%M,1.0,1.84,1.84,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Fromage frais
+ST ELOI PETITPOIS EF,1.0,1.48,1.48,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Petits pois
+PAT FROM FRAIS 3.6%M,1.0,1.84,1.84,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Fromage frais
+PAT FROM FRAIS 3.6%M,1.0,1.84,1.84,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Fromage frais
+SUZI WAN VERMICELLES,1.0,2.37,2.37,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Nouilles de riz
+F.MICHON 4T POIS CHI,1.0,2.5,2.5,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Charcuterie Michon
+F.MICHON 4T HARICOTS,1.0,2.5,2.5,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Haricots
+AVOCAT AFFINE GROS C,1.0,1.39,1.39,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Avocat
+AVOCAT AFFINE GROS C,1.0,1.39,1.39,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Avocat
+AVOCAT AFFINE GROS C,1.0,1.39,1.39,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Avocat
+AVOCAT AFFINE GROS C,1.0,1.39,1.39,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Avocat
+TIPIAK COUSCOUS EP.M,1.0,2.22,2.22,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Couscous
+BANANES 4 FRUITS,1.0,2.4,2.4,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Banane
+*NOUILLE RIZ 3MM WEI,1.0,2.39,2.39,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Nouilles de riz
+"0,500 kg X 2,19EURO/kg",1.0,1.1,1.1,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Vrac (vente au poids)
+PAQUI GOURD MULT VAR,1.0,7.06,7.06,,2026-03-05,Intermarché,cec7abd7-b6d6-407e-9495-a15861da02ea.pdf,Gourde de fruits
+PAT FROM FRAIS 3.6%M,1.0,1.62,1.62,,2025-09-22,Intermarché,f136b5b2-764a-45f3-996b-550e8617db7c.pdf,Fromage frais
+PATURAGES MOZZARELLA,1.0,0.93,0.93,,2025-09-22,Intermarché,f136b5b2-764a-45f3-996b-550e8617db7c.pdf,Mozzarella
+PATURAGES MOZZARELLA,1.0,0.93,0.93,,2025-09-22,Intermarché,f136b5b2-764a-45f3-996b-550e8617db7c.pdf,Mozzarella
+PAT FROMAGE BLANC 3.,1.0,1.92,1.92,,2025-09-22,Intermarché,f136b5b2-764a-45f3-996b-550e8617db7c.pdf,Fromage blanc
+PAT FROMAGE BLANC 3.,1.0,1.92,1.92,,2025-09-22,Intermarché,f136b5b2-764a-45f3-996b-550e8617db7c.pdf,Fromage blanc
+TIPIAK COUSCOUS EP.M,1.0,2.25,2.25,,2025-09-22,Intermarché,f136b5b2-764a-45f3-996b-550e8617db7c.pdf,Couscous
+TIPIAK COUSCOUS EP.D,1.0,2.35,2.35,,2025-09-22,Intermarché,f136b5b2-764a-45f3-996b-550e8617db7c.pdf,Couscous
+BJORG BOIS.AMANDE 1L,1.0,2.62,2.62,,2025-09-22,Intermarché,f136b5b2-764a-45f3-996b-550e8617db7c.pdf,Lait d'amande
+BJORG BOIS.AMANDE 1L,1.0,2.62,2.62,,2025-09-22,Intermarché,f136b5b2-764a-45f3-996b-550e8617db7c.pdf,Lait d'amande
+DOMEDIA 2 CARRES INV,1.0,5.49,5.49,,2025-09-22,Intermarché,f136b5b2-764a-45f3-996b-550e8617db7c.pdf,DOMEDIA 2 CARRES INV
+SUZI WAN LAIT DE COC,1.0,1.38,1.38,,2025-09-22,Intermarché,f136b5b2-764a-45f3-996b-550e8617db7c.pdf,Lait de coco
+SUZI WAN LAIT DE COC,1.0,1.38,1.38,,2025-09-22,Intermarché,f136b5b2-764a-45f3-996b-550e8617db7c.pdf,Lait de coco
+APTA EPONGE GRATTANT,1.0,0.62,0.62,,2025-09-22,Intermarché,f136b5b2-764a-45f3-996b-550e8617db7c.pdf,Éponges
+COCA COLA B.GAZ 1.25,1.0,1.94,1.94,,2025-10-26,Intermarché,f46bec2c-b32f-444b-bb24-e057090a3b40.pdf,Coca-Cola
+"0,960 kg X 1,99EURO/kg",1.0,1.91,1.91,,2025-10-26,Intermarché,f46bec2c-b32f-444b-bb24-e057090a3b40.pdf,Vrac (vente au poids)
+ORANGE DESSERT FILET,1.0,3.99,3.99,,2026-03-19,Intermarché,fd6fb45e-bb6a-4f9c-a288-23e53918d356.pdf,ORANGE DESSERT FILET
+DUCROS MOULIN POIVR.,1.0,3.42,3.42,,2026-03-19,Intermarché,fd6fb45e-bb6a-4f9c-a288-23e53918d356.pdf,DUCROS MOULIN POIVR.
+AFFLIGEM BIERE PACK,1.0,5.91,5.91,,2025-09-17,Intermarché,fe78b8af-f566-4a69-91f2-f7b6cfb42b25.pdf,Bière Affligem
+BRETS CHIPS SCE POM,1.0,1.8,1.8,,2025-09-17,Intermarché,fe78b8af-f566-4a69-91f2-f7b6cfb42b25.pdf,Chips / snacks
+CHIPS BRETS CRAQUANT,1.0,1.98,1.98,,2025-09-17,Intermarché,fe78b8af-f566-4a69-91f2-f7b6cfb42b25.pdf,Chips / snacks
+Tablettes Lave-vaisselle Certifiées Ecocert x 70,1.0,15.6,15.6,Bio/Éco,2025-09-25,La Fourche,2025_09_001957148_0c381622-03ea-4211-b62e-e6c8238548c4.pdf,Liquide vaisselle
+Déboucheur pour Canalisations Action Rapide,1.0,6.79,6.79,Bio/Éco,2025-09-25,La Fourche,2025_09_001957148_0c381622-03ea-4211-b62e-e6c8238548c4.pdf,Déboucheur pour Canalisations Action Rapide
+Dentifrice Fraicheur au Menthol - Sans Fluor,2.0,2.49,4.98,Bio/Éco,2025-09-25,La Fourche,2025_09_001957148_0c381622-03ea-4211-b62e-e6c8238548c4.pdf,Dentifrice Fraicheur au Menthol - Sans Fluor
+Adoucissant à la Lavande Certifié Ecodétergent - 1.5L,1.0,4.3,4.3,Bio/Éco,2025-09-25,La Fourche,2025_09_001957148_0c381622-03ea-4211-b62e-e6c8238548c4.pdf,Adoucissant à la Lavande Certifié Ecodétergent - 1.5L
+Liquide de Rinçage pour Lave-Vaisselle Certifié Ecodétergent - 1L,1.0,3.99,3.99,Bio/Éco,2025-09-25,La Fourche,2025_09_001957148_0c381622-03ea-4211-b62e-e6c8238548c4.pdf,Liquide vaisselle
+Spray Nettoyant Anticalcaire Certifié Ecodétergent,1.0,1.99,1.99,Bio/Éco,2025-09-25,La Fourche,2025_09_001957148_0c381622-03ea-4211-b62e-e6c8238548c4.pdf,Spray Nettoyant Anticalcaire Certifié Ecodétergent
+Spray Nettoyant Vitres et Surfaces Vitrées Certifié Ecodétergent,1.0,1.99,1.99,Bio/Éco,2025-09-25,La Fourche,2025_09_001957148_0c381622-03ea-4211-b62e-e6c8238548c4.pdf,Spray Nettoyant Vitres et Surfaces Vitrées Certifié Ecodétergent
+Nettoyant Sols et Surfaces Certifié Ecodétergent,1.0,2.66,2.66,Bio/Éco,2025-09-25,La Fourche,2025_09_001957148_0c381622-03ea-4211-b62e-e6c8238548c4.pdf,Nettoyant Sols et Surfaces Certifié Ecodétergent
+Gel WC Certifié Ecodétergent,1.0,2.46,2.46,Bio/Éco,2025-09-25,La Fourche,2025_09_001957148_0c381622-03ea-4211-b62e-e6c8238548c4.pdf,Gel WC Certifié Ecodétergent
+Lessive Liquide Blanc et Couleurs Certifiée Ecodétergent,2.0,3.99,7.98,Bio/Éco,2025-09-25,La Fourche,2025_09_001957148_0c381622-03ea-4211-b62e-e6c8238548c4.pdf,Lessive
+Gel Douche Lavant Neutre Certifié Cosmos Organic - 1L,2.0,7.98,15.96,Bio/Éco,2025-09-25,La Fourche,2025_09_001957148_0c381622-03ea-4211-b62e-e6c8238548c4.pdf,Gel Douche Lavant Neutre Certifié Cosmos Organic - 1L
+Lessive en Poudre Blanc & Couleurs Certifiée Ecodétergent - 3kg,1.0,18.98,18.98,Bio/Éco,2025-09-25,La Fourche,2025_09_001957148_0c381622-03ea-4211-b62e-e6c8238548c4.pdf,Lessive
